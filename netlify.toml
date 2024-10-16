@@ -1,7 +1,7 @@
+[update]
+command = "yarn update"
+
 [build]
   command = "yarn build"
   functions = "built-lambda"
   publish = "build"
-
-[update]
-command = "yarn update"
